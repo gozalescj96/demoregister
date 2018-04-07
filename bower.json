@@ -1,0 +1,22 @@
+{
+  "name": "Proyecto Bower",
+  "authors": [
+    "Cristhian Gonzales <gonzalescj96@gmail.com>"
+  ],
+  "description": "Mi primer proyecto bower",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "fontawesome": "^5.0.9"
+  }
+}
